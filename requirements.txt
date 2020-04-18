@@ -1,6 +1,5 @@
 tensorflow-gpu>=1.4.1
 umap-learn
-umap-learn
 visdom
 webrtcvad
 librosa>=0.5.1
